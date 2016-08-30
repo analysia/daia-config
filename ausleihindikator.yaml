@@ -699,7 +699,8 @@
             is: available
             limitation: "Dauerleihe Forschungsapparat"
         interloan:
-            is: unavailable
+            is: available
+            limitation: "nur Kopie"
     
     # ausleihbar / keine Fernleihe
     c:
